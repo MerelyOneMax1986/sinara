@@ -1,13 +1,4 @@
-from pyspark.sql import SparkSession
-from pyspark.context import SparkContext
-from pyspark.conf import SparkConf
-
-import socket
-import sys
-import math
-fdfd9kjv0-revmcoefdvld
-ofpdmvopdfmv-ofm
-fdvdfvfd
+f-9kj
 
 # setting Sinara abstract class
 sys.path.append('../../sinara')
