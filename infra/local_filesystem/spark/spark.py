@@ -6,7 +6,6 @@ import socket
 import sys
 import math
 import os
-import os
 
 # setting Sinara abstract class
 sys.path.append('../../sinara')
