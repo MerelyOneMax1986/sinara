@@ -5,7 +5,7 @@ from pyspark.conf import SparkConf
 import socket
 import sys
 import math
-import os
+import os2
 
 # setting Sinara abstract class
 sys.path.append('../../sinara')
