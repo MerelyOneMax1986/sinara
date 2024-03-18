@@ -51,7 +51,7 @@ class _SinaraSettings(__SinaraSettings):
         if env_name not in env_paths:
             raise Exception("Unexpected env_name value:" + env_name)
         return env_paths[env_name]
-    TETETETETETE
+    #############
     @staticmethod
     def get_default_step_name():
         step_folder_split = Path(os.getcwd()).name.split("-")
